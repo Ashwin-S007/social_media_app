@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st post",
+      "datetime": "July 16, 2021 11:47:39 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "2",
+      "title": "Second post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
+    },
+    {
+      "id": "3",
+      "title": "Number Three",
+      "datetime": "July 16, 2021 11:48:01 AM",
+      "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "411",
+      "title": "React Js",
+      "datetime": "June 19, 2024 12:58:54 PM",
+      "body": "Fully Finished...!!!!"
+    },
+    {
+      "id": "4111",
+      "title": "Github",
+      "datetime": "June 19, 2024 1:49:34 PM",
+      "body": "Onto Next...!!!"
+    },
+    {
+      "id": "41111",
+      "title": "Sem Holidays",
+      "datetime": "June 19, 2024 1:50:04 PM",
+      "body": "Practicing for the Job Interviews..."
+    }
+  ]
+}
