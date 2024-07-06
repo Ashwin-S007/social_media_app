@@ -20,7 +20,6 @@ function App() {
   const [postBody, setPostBody] = useState('');
   const [editTitle, setEditTitle] = useState('');
   const [editBody, setEditBody] = useState('');
-  const [isLoading, setisLoading] = useState(true);
   const navigate = useNavigate()
   const {width} = useWindowsize()
 
