@@ -6,7 +6,7 @@ import PostPage from "./PostPage";
 import About from "./About";
 import Missing from "./Missing";
 import Footer from "./Footer";
-import { Link, Route, Routes, useNavigate } from "react-router-dom";
+import { Route, Routes, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { format } from "date-fns";
 import api from "./api/posts";
@@ -37,9 +37,7 @@ function App() {
         } else {
           console.log(`Error : ${err.message}`);
         }
-      } finally{
-        setisLoading(false)
-      }
+      } 
     }
     setTimeout(() => {
       (async () => await fetchPosts())()
